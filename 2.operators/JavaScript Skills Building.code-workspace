@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "JavaScript Skills Building",
+			"path": ".."
+		},
+		{
+			"name": "CodeWars",
+			"path": "../../../Software Engineer Prep/CodeWars"
+		},
+		{
+			"name": "Projects",
+			"path": "../../../Software Engineer Prep/Projects"
+		},
+		{
+			"name": "Booking Form",
+			"path": "../../../Software Engineer Prep/Booking Form"
+		},
+		{
+			"name": "code-with-mosh-source-code",
+			"path": "../../code-with-mosh-source-code"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Projects"
+	}
+}

@@ -1,0 +1,14 @@
+
+let x = 2 + 3 * 4;
+
+// BODMAS operations apply
+
+console.log(x);
+
+let y = 4 + 5 * 3 - 6;
+
+console.log(y);
+
+let z = (7 + 3) * 3;
+
+console.log(z);

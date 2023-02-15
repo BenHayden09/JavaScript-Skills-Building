@@ -1,0 +1,29 @@
+
+let x = 10;
+let y = 3;
+
+console.log (x + y);
+
+let num1 = 4;
+let num2 = 20;
+
+console.log (num1 * num2);
+
+// % is equal to remainder of division
+// ** tp the power of the second number value
+// You can use  + - * / for arithmetic operators
+
+//Increment (++)
+console.log(++x);
+// if you place the increment first 1 is then increased by the value indicated by the operator, in this case 10 so you will have 1 + 10 (++x)
+//if you place the increment second (x++) you will show the number stated and the it will be incremented by 1. However, you will only see this once you pass a long for this a second time
+// to see this work as it shoud, remove the console.log above to cancel out the increment set before
+console.log(x++);
+console.log(x);
+
+//Decrement (--)
+//not for this to work - remove the console lines above so that it does not interfere 
+console.log(--x);
+//subtract 1 from 10
+console.log(x--);
+//10 and then decremented by 1 (will only show when you create a new console.log)
